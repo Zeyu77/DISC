@@ -1,5 +1,4 @@
-# DISC
-# A pytorch implementation for the IEEE Transactions on Multimedia manuscript "Discrepancy and Structure-based Contrast for Test-time Adaptive Retrieval"
+# A pytorch implementation for DISC: "Discrepancy and Structure-based Contrast for Test-time Adaptive Retrieval"
 
 ## ENVIRONMENTS
 1. pytorch 1.10.0+cu113
