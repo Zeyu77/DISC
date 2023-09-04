@@ -9,7 +9,7 @@
 [OFFICE-31]
 [OFFICE-HOME]
 
-## Before running the code, the dataset path has to be modified in line 110 and 111 in run.py and line 189 and 195 in officehome.py.
+Before running the code, the dataset path has to be modified in line 110 and 111 in run.py and line 189 and 195 in officehome.py.
 
 How to train a model:
 python run.py --train
